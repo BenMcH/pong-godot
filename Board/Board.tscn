@@ -44,7 +44,6 @@ action = "move_up_player_1"
 
 [node name="Player2" parent="." instance=ExtResource( 2 )]
 position = Vector2( 10, 75 )
-action = "move_up_player_2"
 
 [node name="Ball" parent="." instance=ExtResource( 4 )]
 position = Vector2( 428, 184 )
